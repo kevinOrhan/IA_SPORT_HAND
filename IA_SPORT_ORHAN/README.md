@@ -40,6 +40,7 @@ L'analyse a été menée sur **70 séquences d'attaque** de l'équipe de France.
 ## 🚀 Installation et Utilisation
 
 ### Prérequis
+IMPORTANT : il faut télécharger le dossier data_handball qui est trop lourd pour le dépôt git
 Le projet nécessite **Python 3.x** et les bibliothèques suivantes (voir `hand_tactics2.py`) :
 * `numpy`
 * `pandas`
